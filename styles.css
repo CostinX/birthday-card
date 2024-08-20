@@ -2,7 +2,7 @@ body {
     text-align: center;
     font-family: 'Happy Monkey', cursive;
     background: url(backgroundv2.png);
-    background-size: cover;
+    background-size: auto;
     color: #161716;
 }
 
