@@ -3,11 +3,11 @@ body {
     font-family: 'Happy Monkey', cursive;
     background: url(background.png);
     background-size: cover;
-    color: #ffffff;
+    color: #161716;
 }
 
 h1, h2, h3, h4, p {
-    text-shadow: 0 0 1px black;
+    text-shadow: 0 0 1px white;
 }
 
 #bff-img {
